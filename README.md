@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaiasdossf
 - 👀 I’m interested in desenvolvimento de software
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning c# e .NET
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me isaiasdossf@gmail.com
 
